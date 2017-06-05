@@ -1,7 +1,8 @@
 # Altruistic Perturbations: Detecting Out-of-Distribution Examples in Neural Networks 
 
 
-This is a [PyTorch](http://pytorch.org) implementation for detecting out-of-distribution examples in neural networks. The method is described in the paper [Principled Detection of Out-of-Distribution Examples in Neural Networks]() by S. Liang, Y. Li and R. Srikant. 
+This is a [PyTorch](http://pytorch.org) implementation for detecting out-of-distribution examples in neural networks. The method is described in the paper [Principled Detection of Out-of-Distribution Examples in Neural Networks]() by S. Liang, Y. Li and R. Srikant.
+![performance](./figures/original_optimal_shade.pdf)
 
 ## Expereimental Results
 
