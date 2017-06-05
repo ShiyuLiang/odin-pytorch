@@ -54,7 +54,7 @@ cd ..
 
 ### Downloading Neural Network Models
 
-We provide download links of four pre-trained networks. 
+We provide download links of four pre-trained models. 
 
 * **[DenseNet-BC trained on CIFAR-10](https://www.dropbox.com/s/wr4kjintq1tmorr/densenet10.pth.tar.gz)** 
 * **[DenseNet-BC trained on CIFAR-100](https://www.dropbox.com/s/vxuv11jjg8bw2v9/densenet100.pth.tar.gz)**
