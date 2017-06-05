@@ -166,7 +166,7 @@ tar -xvzf Imagenet.tar.gz
 We provide download links of two Wide ResNet networks. 
 
 * **Wide ResNet trained on CIFAR-10**: [https://www.dropbox.com/s/uiye5nw0uj6ie53/wideresnet10.pth.tar.gz](https://www.dropbox.com/s/uiye5nw0uj6ie53/wideresnet10.pth.tar.gz)
-* **Wide ResNet trained on CIFAR-100**: [https://www.dropbox.com/s/uiye5nw0uj6ie53/wideresnet10.pth.tar.gz](https://www.dropbox.com/s/uiye5nw0uj6ie53/wideresnet10.pth.tar.gz)
+* **Wide ResNet trained on CIFAR-100**: [https://www.dropbox.com/s/uiye5nw0uj6ie53/wideresnet100.pth.tar.gz](https://www.dropbox.com/s/uiye5nw0uj6ie53/wideresnet100.pth.tar.gz)
 
 Here is an example code of downloading Wide ResNet trained on CIFAR-10. In the **root** directory, run
 
