@@ -3,7 +3,7 @@
 
 This is a [PyTorch](http://pytorch.org) implementation for detecting out-of-distribution examples in neural networks. The method is described in the paper [Principled Detection of Out-of-Distribution Examples in Neural Networks]() by S. Liang, Y. Li and R. Srikant.
 <p align="center">
-<img src="./figures/original_optimal_shade.png" width="600">
+<img src="./figures/original_optimal_shade.png" width="400">
 </p>
 ## Expereimental Results
 
