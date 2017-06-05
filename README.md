@@ -1,4 +1,4 @@
-# Cordial Perturbations: Detecting Out-of-Distribution Examples in Neural Networks 
+# Altrustic Perturbations: Detecting Out-of-Distribution Examples in Neural Networks 
 
 
 This is a [PyTorch](http://pytorch.org) implementation for detecting out-of-distribution examples in neural networks. The method is described in the paper [Principled Detection of Out-of-Distribution Examples in Neural Networks]() by S. Liang, Y. Li and R. Srikant. 
