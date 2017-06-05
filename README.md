@@ -1,7 +1,7 @@
 # Altruistic Perturbations: Detecting Out-of-Distribution Examples in Neural Networks 
 
 
-This is a [PyTorch](http://pytorch.org) implementation for detecting out-of-distribution examples in neural networks. The method is described in the paper [Principled Detection of Out-of-Distribution Examples in Neural Networks]() by S. Liang, Y. Li and R. Srikant.
+This is a [PyTorch](http://pytorch.org) implementation for detecting out-of-distribution examples in neural networks. The method is described in the paper [Principled Detection of Out-of-Distribution Examples in Neural Networks]() by S. Liang, Y. Li and R. Srikant. The method proposed in the paper reduces the false positive rate from the baseline 34.7% to 4.3% on the DenseNet (applied to CIFAR-10) when the true positive rate is 95%. 
 <p align="center">
 <img src="./figures/original_optimal_shade.png" width="500">
 </p>
