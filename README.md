@@ -14,7 +14,7 @@ The experimental results are shown as follows. The definition of each metric can
 
 ## Pre-trained Models
 
-We provide four pre-trained neural networks: (1) two [DenseNet-BC](https://arxiv.org/abs/1608.06993) networks trained on  CIFAR-10 and CIFAR-100 respectively; (2) two [Wide ResNet](https://arxiv.org/abs/1605.07146) networks trained on CIFAR-10 and CIFAR-100 respectively. The test error rates is provided by the following table:
+We provide four pre-trained neural networks: (1) two [DenseNet-BC](https://arxiv.org/abs/1608.06993) networks trained on  CIFAR-10 and CIFAR-100 respectively; (2) two [Wide ResNet](https://arxiv.org/abs/1605.07146) networks trained on CIFAR-10 and CIFAR-100 respectively. The test error rates are given by:
 
 Architecture    |  CIFAR-10   | CIFAR-100
 ------------    |  ---------  | ---------
@@ -74,7 +74,7 @@ cd ..
 
 ### Running
 
-Here is an example code reproducing the results of DenseNet-BC trained on CIFAR-10 where TinyImageNet (crop) is the out-of-distribution datasets, temperature is 1000 and perturbation magnitude is 0.0014. In the **root** directory, run
+Here is an example code reproducing the results of DenseNet-BC trained on CIFAR-10 where TinyImageNet (crop) is the out-of-distribution dataset. The temperature is set as 1000, and perturbation magnitude is set as 0.0014. In the **root** directory, run
 
 ```
 cd code
