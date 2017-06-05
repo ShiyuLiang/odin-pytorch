@@ -1,7 +1,7 @@
 # Cordial Perturbations: Detecting Out-of-Distribution Examples in Neural Networks 
 
 
-This is a [PyTorch](http://pytorch.org) implementation of the detection of out-of-distribution examples in neural networks as described in the paper [Principled Detection of Out-of-Distribution Examples in Neural Networks]() by S. Liang, Y. Li and R.Srikant. 
+This is a [PyTorch](http://pytorch.org) implementation of the detection of out-of-distribution examples in neural networks as described in the paper [Principled Detection of Out-of-Distribution Examples in Neural Networks]() by S. Liang, Y. Li and R. Srikant. 
 
 ## Expereimental Results
 
