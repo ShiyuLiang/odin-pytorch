@@ -38,11 +38,11 @@ Wide ResNet     |  3.71       | 19.86
 ### Downloading  Out-of-Distribtion Datasets
 We provide download links of five out-of-distributin datasets:
 
-* **Tiny-ImageNet (crop)**: [https://www.dropbox.com/s/avgm2u562itwpkl/Imagenet.tar.gz](https://www.dropbox.com/s/avgm2u562itwpkl/Imagenet.tar.gz)
-* **Tiny-ImageNet (resize)**:[https://www.dropbox.com/s/kp3my3412u5k9rl/Imagenet_resize.tar.gz](https://www.dropbox.com/s/kp3my3412u5k9rl/Imagenet_resize.tar.gz)
-* **LSUN (crop)**: [https://www.dropbox.com/s/fhtsw1m3qxlwj6h/LSUN.tar.gz](https://www.dropbox.com/s/fhtsw1m3qxlwj6h/LSUN.tar.gz)
-* **LSUN (resize)**: [https://www.dropbox.com/s/moqh2wh8696c3yl/LSUN_resize.tar.gz](https://www.dropbox.com/s/moqh2wh8696c3yl/LSUN_resize.tar.gz)
-* **iSUN**: [https://www.dropbox.com/s/ssz7qxfqae0cca5/iSUN.tar.gz](https://www.dropbox.com/s/ssz7qxfqae0cca5/iSUN.tar.gz)
+* **Tiny-ImageNet (crop)**: https://www.dropbox.com/s/avgm2u562itwpkl/Imagenet.tar.gz
+* **Tiny-ImageNet (resize)**:https://www.dropbox.com/s/kp3my3412u5k9rl/Imagenet_resize.tar.gz
+* **LSUN (crop)**: https://www.dropbox.com/s/fhtsw1m3qxlwj6h/LSUN.tar.gz
+* **LSUN (resize)**: https://www.dropbox.com/s/moqh2wh8696c3yl/LSUN_resize.tar.gz
+* **iSUN**: https://www.dropbox.com/s/ssz7qxfqae0cca5/iSUN.tar.gz
 
 Here is an example code of downloading Tiny-ImageNet (crop) dataset. In the **root** directory, run
 
@@ -58,10 +58,10 @@ cd ..
 
 We provide download links of four pre-trained networks. 
 
-* **DenseNet-BC trained on CIFAR-10**: [https://www.dropbox.com/s/wr4kjintq1tmorr/densenet10.pth.tar.gz](https://www.dropbox.com/s/wr4kjintq1tmorr/densenet10.pth.tar.gz)
-* **DenseNet-BC trained on CIFAR-100**: [https://www.dropbox.com/s/vxuv11jjg8bw2v9/densenet100.pth.tar.gz](https://www.dropbox.com/s/vxuv11jjg8bw2v9/densenet100.pth.tar.gz)
-* **Wide ResNet trained on CIFAR-10**: [https://www.dropbox.com/s/uiye5nw0uj6ie53/wideresnet10.pth.tar.gz](https://www.dropbox.com/s/uiye5nw0uj6ie53/wideresnet10.pth.tar.gz)
-* **Wide ResNet trained on CIFAR-100**: [https://www.dropbox.com/s/uiye5nw0uj6ie53/wideresnet100.pth.tar.gz](https://www.dropbox.com/s/uiye5nw0uj6ie53/wideresnet100.pth.tar.gz)
+* **DenseNet-BC trained on CIFAR-10**: https://www.dropbox.com/s/wr4kjintq1tmorr/densenet10.pth.tar.gz
+* **DenseNet-BC trained on CIFAR-100**: https://www.dropbox.com/s/vxuv11jjg8bw2v9/densenet100.pth.tar.gz
+* **Wide ResNet trained on CIFAR-10**: https://www.dropbox.com/s/uiye5nw0uj6ie53/wideresnet10.pth.tar.gz
+* **Wide ResNet trained on CIFAR-100**: https://www.dropbox.com/s/uiye5nw0uj6ie53/wideresnet100.pth.tar.gz
 
 Here is an example code of downloading DenseNet-BC trained on CIFAR-10. In the **root** directory, run
 
