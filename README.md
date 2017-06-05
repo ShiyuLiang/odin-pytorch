@@ -159,6 +159,7 @@ mkdir data
 cd data
 wget https://www.dropbox.com/s/fhtsw1m3qxlwj6h/LSUN.tar.gz
 tar -xvzf LSUN.tar.gz
+cd ..
 ```
 
 ### Downloading Neural Network Models
@@ -175,6 +176,7 @@ mkdir models
 cd models
 wget https://www.dropbox.com/s/uiye5nw0uj6ie53/wideresnet10.pth.tar.gz
 tar -xvzf wideresnet10.pth.tar.gz
+cd ..
 ```
 
 
