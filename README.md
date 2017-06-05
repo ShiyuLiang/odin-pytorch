@@ -5,6 +5,8 @@ This is a [PyTorch](http://pytorch.org) implementation for detecting out-of-dist
 <p align="center">
 <img src="./figures/original_optimal_shade.png" width="500">
 </p>
+
+
 ## Expereimental Results
 
 We used two neural network architectures, [DenseNet-BC](https://arxiv.org/abs/1608.06993) and [Wide ResNet](https://arxiv.org/abs/1605.07146).
