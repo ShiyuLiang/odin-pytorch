@@ -139,7 +139,7 @@ AUPR Out:                    93.8%              99.1%
 * CUDA 8.0
 * PyTorch
 * Anaconda2 or 3
-* At least **three** GPU
+* At least **three** GPUs
 
 **Note:** Now we require three gpus for reproducing the results for Wide ResNet. Single gpu version is coming.
 
