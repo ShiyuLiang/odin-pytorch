@@ -47,7 +47,7 @@ Here is an example code of downloading Tiny-ImageNet (crop) dataset. In the **ro
 ```
 mkdir data
 cd data
-wget https://www.dropbox.com/s/kp3my3412u5k9rl/Imagenet.tar.gz
+wget https://www.dropbox.com/s/avgm2u562itwpkl/Imagenet.tar.gz
 tar -xvzf Imagenet.tar.gz
 cd ..
 ```
