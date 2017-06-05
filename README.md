@@ -2,8 +2,9 @@
 
 
 This is a [PyTorch](http://pytorch.org) implementation for detecting out-of-distribution examples in neural networks. The method is described in the paper [Principled Detection of Out-of-Distribution Examples in Neural Networks]() by S. Liang, Y. Li and R. Srikant.
-<img src="./figures/original_optimal_shade.png" width="400">
-
+<p align="center">
+<img src="./figures/original_optimal_shade.png" width="600">
+</p>
 ## Expereimental Results
 
 We used two neural network architectures, [DenseNet-BC](https://arxiv.org/abs/1608.06993) and [Wide ResNet](https://arxiv.org/abs/1605.07146).
