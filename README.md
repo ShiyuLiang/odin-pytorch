@@ -239,14 +239,14 @@ Here is an example of output.
 ```
 Neural network architecture:        Wide-ResNet-28-10
 In-distribution dataset:                     CIFAR-10
-Out-of-distribution dataset:   Tiny-ImageNet (resize)
+Out-of-distribution dataset:              LSUN (crop)
 
                           Baseline         Our Method
-FPR at TPR 95%:              45.4%              35.1% 
-Detection error:             14.7%              14.0%
-AUROC:                       91.0%              92.0%
-AUPR In:                     89.8%              90.2%
-AUPR Out:                    90.0%              92.0%
+FPR at TPR 95%:              35.3%              22.0% 
+Detection error:             10.8%               9.8%
+AUROC:                       94.4%              95.8%
+AUPR In:                     95.0%              95.8%
+AUPR Out:                    93.0%              95.4%
 ```
 
 
