@@ -158,7 +158,7 @@ Here is an example code of downloading LSUN (crop) dataset. In the **root** dire
 mkdir data
 cd data
 wget https://www.dropbox.com/s/fhtsw1m3qxlwj6h/LSUN.tar.gz
-tar -xvzf Imagenet.tar.gz
+tar -xvzf LSUN.tar.gz
 ```
 
 ### Downloading Neural Network Models
