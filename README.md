@@ -1,4 +1,4 @@
-# ODIN: Principled Detection of Out-of-Distribution Examples in Neural Networks 
+# ODIN: Out-of-Distribution Detector for Neural Networks 
 
 
 This is a [PyTorch](http://pytorch.org) implementation for detecting out-of-distribution examples in neural networks. The method is described in the paper [Principled Detection of Out-of-Distribution Examples in Neural Networks]() by S. Liang, Y. Li and R. Srikant. The method reduces the false positive rate from the baseline 34.7% to 4.3% on the DenseNet (applied to CIFAR-10) when the true positive rate is 95%. 
@@ -7,7 +7,7 @@ This is a [PyTorch](http://pytorch.org) implementation for detecting out-of-dist
 </p>
 
 
-## Expereimental Results
+## Experimental Results
 
 We used two neural network architectures, [DenseNet-BC](https://arxiv.org/abs/1608.06993) and [Wide ResNet](https://arxiv.org/abs/1605.07146).
 The PyTorch implementation of [DenseNet-BC](https://arxiv.org/abs/1608.06993) is provided by [Andreas Veit](https://github.com/andreasveit/densenet-pytorch) and [Brandon Amos](https://github.com/bamos/densenet.pytorch). The PyTorch implementation of [Wide ResNet](https://arxiv.org/abs/1605.07146) is provided  by [Sergey Zagoruyko](https://github.com/szagoruyko/wide-residual-networks).
