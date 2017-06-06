@@ -1,4 +1,4 @@
-# ODIN: Out-of-DIstribution detector for Neural networks 
+# ODIN: Out-of-Distribution Detector for Neural Networks 
 
 
 This is a [PyTorch](http://pytorch.org) implementation for detecting out-of-distribution examples in neural networks. The method is described in the paper [Principled Detection of Out-of-Distribution Examples in Neural Networks]() by S. Liang, Y. Li and R. Srikant. The method reduces the false positive rate from the baseline 34.7% to 4.3% on the DenseNet (applied to CIFAR-10) when the true positive rate is 95%. 
