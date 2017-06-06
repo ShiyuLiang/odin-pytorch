@@ -107,7 +107,7 @@ python main.py --nn densenet10 --out_dataset Imagenet --magnitude 0.0014 --tempe
 	Uniform random noise                | Uniform
 	Gaussian random noise               | Gaussian
 
-* **args.magnitude**: the optimal noise magnitude can be found below
+* **args.magnitude**: the optimal noise magnitude can be found below. In practice, the optimal choices of noise magnitude are model-specific and need to be tuned accordingly. 
 
 	Out-of-Distribution Datasets        |   densenet10     |  densenet100  | wideresnet10   | wideresnet100
 	------------------------------------|------------------|-------------  | -------------- |--------------
