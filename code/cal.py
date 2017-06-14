@@ -30,13 +30,7 @@ transform = transforms.Compose([
 ])
 
 
-testset10 = torchvision.datasets.CIFAR10(root='../data', train=False, download=True, transform=transform)
-testloader10 = torch.utils.data.DataLoader(testset10, batch_size=1,
-                                         shuffle=False, num_workers=2)
 
-testset100 = torchvision.datasets.CIFAR100(root='../data', train=False, download=True, transform=transform)
-testloader100 = torch.utils.data.DataLoader(testset100, batch_size=1,
-                                           shuffle=False, num_workers=2)
 
 # loading neural network
 
@@ -71,7 +65,7 @@ def test(nnName, dataName, CUDA_DEVICE, epsilon, temperature):
 	testloaderIn = torch.utils.data.DataLoader(testset, batch_size=1,
                                          shuffle=False, num_workers=2)
     if nnName == "densenet100" or nnName == "wideresnet100": 
-	testset = torchvision.datasets.CIFAR10(root='../data', train=False, download=True, transform=transform)
+	testset = torchvision.datasets.CIFAR100(root='../data', train=False, download=True, transform=transform)
 	testloaderIn = torch.utils.data.DataLoader(testset, batch_size=1,
                                          shuffle=False, num_workers=2)
     
