@@ -100,7 +100,7 @@ python main.py --nn densenet10 --out_dataset Imagenet --magnitude 0.0014 --tempe
 	Out-of-Distribution Datasets     | args.out_dataset
 	------------------------------------|-----------------
 	Tiny-ImageNet (crop)                | Imagenet
-	Tiny-ImageNet (resize)              | Imanenet_resize
+	Tiny-ImageNet (resize)              | Imagenet_resize
 	LSUN (crop)                         | LSUN
 	LSUN (resize)                       | LSUN_resize
 	iSUN                                | iSUN
